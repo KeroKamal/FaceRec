@@ -1,0 +1,12 @@
+Flask
+numpy<2.0
+pandas
+pillow<10.3.0
+torch>=2.2.0,<2.3.0
+facenet-pytorch==2.6.0
+scipy
+werkzeug
+requests
+opencv-python
+openpyxl
+pickle
